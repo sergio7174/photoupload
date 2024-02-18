@@ -1,4 +1,4 @@
-<h1 align ="center" > 🏆Photo Upload </h1>
+<h1 align ="center" > 📸 🌆 Photo Upload </h1>
 <h4  align ="center"> 
 Fullstack open source application that allows users to easily create a page to upload photos and share them with other viewers… Made with MongoDB, Express, Nodejs  </h4>
 <br>
@@ -32,7 +32,7 @@ DONT FORGET TO CREATE THE IMAGE FOLDER - ./uploads
 ```
 ![Status project](https://img.shields.io/badge/STATUS-Finished-GREEN?style=for-the-badge)
 
-## ✔️ Tecnologias Utilizadas:
+## ✔️ Technologies used:
 ![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=Javascript&logoColor=white)
 ![React](https://img.shields.io/badge/Nodejs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Static Badge](https://img.shields.io/badge/EJS%20-yellow?style=for-the-badge)
