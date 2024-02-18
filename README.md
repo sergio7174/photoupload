@@ -54,9 +54,7 @@ $ npm run  start (to start the client)  or nodemon app
 
 ##  Key Features:
 
-- User registration and login
-- Authentication using JWT Tokens
-- Add, edit, delete books
+- Add, delete, edit 'photo_upload'
 - Search Live
 - 404 Page and many more
 - Responsive Design
