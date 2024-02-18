@@ -46,10 +46,10 @@ $ npm run  start (to start the client)  or nodemon app
 
 ##  Screenshots:
 <br>
-<img src="./projectimages/image01.jpg" alt="project screenshot01" />
-<img src="./projectimages/image02.jpg" alt="project screenshot02" />
-<img src="./projectimages/image03.jpg" alt="project screenshot03" />
-<img src="./projectimages/image04.jpg" alt="project screenshot04" />
+<img src="./PhotoUpload001/projectimages/image01.jpg" alt="project screenshot01" />
+<img src="./PhotoUpload001/projectimages/image02.jpg" alt="project screenshot02" />
+<img src="./PhotoUpload001/projectimages/image03.jpg" alt="project screenshot03" />
+<img src="./PhotoUpload001/projectimages/image04.jpg" alt="project screenshot04" />
 <br>
 
 ##  Key Features:
